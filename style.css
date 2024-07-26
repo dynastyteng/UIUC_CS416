@@ -16,12 +16,10 @@
       }
 
 
-      rect {
-        fill: rgb(70, 134, 180)
-      }
+
       .axis-label {
         font-size: 10em;
-        fill: green;
+        fill: black;
       }
         
       .tick text {
